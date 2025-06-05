@@ -1,0 +1,8 @@
+h0 t0 h0 wh wh h0 b0 b0
+wh h1 wh ca xx wh h3 b1
+t1 gr t0 xx xx h2 t0 w6
+00 00 00 r1 00 gr gr w1
+r6 r2 r2 r4 00 gr w6 w4
+r1 t1 00 00 00 w6 w4 gr
+r3 r2 r5 00 w6 w4 b0 t1
+00 00 r1 00 w1 gr t1 t0
